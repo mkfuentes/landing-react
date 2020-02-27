@@ -9,7 +9,7 @@ function App() {
         <Banner
           title='CREATE ON YOUR OWN TERMS'
           text='Start a membership business to develop a direct relationship with your biggest fans and generate predictable, recurring revenue from your creative work.'
-          img='https://picsum.photos/200/400'
+          img='https://picsum.photos/200/300'
         />
       </div>
     </div>
